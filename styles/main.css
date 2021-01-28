@@ -10,7 +10,6 @@ body{
 	font-size: 20px;
 	font-family: 'Coda',helvetica, Georgia, cursive;
 }
-}
 
 *,*:before,*:after{
 	box-sizing: inherit;
@@ -72,7 +71,7 @@ a{
 	margin: auto;
 }
 
-section h1{
+#hugeText h1{
   text-align: center;
   font-size: 7.2em;
   font-family: 'Iceland', helvetica, Georgia, cursive;
@@ -88,7 +87,7 @@ main{
 	flex-direction: column;
 }
 
-main section {
+#hugeText {
 	align-self: center;
 }
 
